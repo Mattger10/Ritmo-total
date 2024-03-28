@@ -1,0 +1,1641 @@
+[
+  {
+    "name": "Nirvana",
+    "bio": "Nirvana fue una banda de rock estadounidense formada en Aberdeen, Washington, en 1987. Fundada por el cantante y guitarrista Kurt Cobain y el bajista Krist Novoselic, la banda pasó por una sucesión de bateristas, sobre todo Chad Channing, y luego reclutó a Dave Grohl en 1990.",
+    "genre": ["Grunge", "Rock", "Punk Rock"],
+    "photo_url": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+    "background_image": "",
+    "songs": [
+      {
+        "songName": "Polly",
+        "duration": "2:54",
+        "number": "01",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FPolly.mp3?alt=media&token=49732ece-c468-4f56-b542-c9617ef8f494"
+      },
+      {
+        "songName": "Drain you",
+        "number": "02",
+        "duration": "3:43",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "Nirvana",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FDrain%20You%20Audio.mp3?alt=media&token=c54e04e6-0f85-4bd6-b3fc-70cfb12f8a7a"
+      },
+      {
+        "songName": "Lounge Act",
+        "number": "03",
+        "duration": "2:36",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FLounge%20Act.mp3?alt=media&token=92ddec88-e8f3-49c8-9f7f-2f9a175c2560"
+      },
+      {
+        "songName": "Lithium",
+        "number": "04",
+        "duration": "4:15",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FLithium.mp3?alt=media&token=2765c1f7-54be-4ff9-baaf-2cc2088e428b"
+      },
+      {
+        "songName": "Something in the way",
+        "number": "05",
+        "duration": "3:51",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FSomething%20In%20The%20Way.mp3?alt=media&token=f2b4ecbf-9907-47d5-a2ca-aaee3ec2f995"
+      },
+      {
+        "songName": "Stay away",
+        "number": "06",
+        "duration": "3:31",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FStay%20away.mp3?alt=media&token=71bbc298-cac4-4d11-a498-655403e96e50"
+      },
+      {
+        "songName": "Breed",
+        "number": "07",
+        "duration": "2:02",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FBreed.mp3?alt=media&token=c4901794-a572-4512-82f2-465ab5fb8d43"
+      },
+      {
+        "songName": "Smell like teen spirit",
+        "number": "08",
+        "duration": "4:38",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FSmells%20Like%20Teen%20Spirit.mp3?alt=media&token=ec798aa9-41f6-463c-96c5-45f6adba7e1e"
+      },
+      {
+        "songName": "On a Plain",
+        "number": "09",
+        "duration": "3:14",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FOn%20A%20Plain.mp3?alt=media&token=6bb2e0b0-d2bd-4b8b-80ad-72d9df7e2f23"
+      },
+      {
+        "songName": "Territorial Pissings",
+        "number": "10",
+        "duration": "2:23",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FTerritorial%20Pissings.mp3?alt=media&token=61d3dd4e-d930-4d91-913d-c545b94f5dec"
+      },
+      {
+        "songName": "In bloom",
+        "number": "11",
+        "duration": "4:15",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FIn%20Bloom.mp3?alt=media&token=b899c591-86da-4c1f-a25f-8aa928b0f12b"
+      },
+      {
+        "songName": "Come as you are",
+        "number": "12",
+        "duration": "3:44",
+        "artists_evolved": ["Nirvana"],
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "letra": "",
+        "icon": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNirvana%2FCome%20As%20You%20Are.mp3?alt=media&token=115a35e8-3b82-48a0-80f4-f68ab11ccf43"
+      }
+    ]
+  },
+  {
+    "name": "Guns N' Roses",
+    "bio": "Guns N' Roses es una banda estadounidense de hard rock formada en Hollywood, Los Ángeles, en la zona de Sunset Strip, en 1985. El grupo musical fue fundado por el vocalista Axl Rose y el guitarrista Izzy Stradlin.",
+    "genre": ["Rock."],
+    "photo_url": "https://www.sopitas.com/wp-content/uploads/2017/07/guns-n-roses-appetite-for-destruction-portada.png",
+    "background_image": "",
+    "songs": [
+      {
+        "songName": "Welcome to the jungle",
+        "number": "01",
+        "duration": "4:33",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FWelcome%20To%20The%20Jungle.mp3?alt=media&token=d9292236-c938-4f1a-8fc4-ec3d1d2c2ea3"
+      },
+      {
+        "songName": "It's So Easy",
+        "duration": "3:22",
+        "number": "02",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FIts%20So%20Easy.mp3?alt=media&token=f8d75851-9dab-44e5-98f9-cf6cc6066109"
+      },
+      {
+        "songName": "Nightrain",
+        "duration": "4:28",
+        "number": "03",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FNightrain.mp3?alt=media&token=05370329-4401-4ca2-8467-c893d60560ba"
+      },
+      {
+        "songName": "Out ta get me",
+        "duration": "4:23",
+        "number": "04",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FOut%20Ta%20Get%20Me.mp3?alt=media&token=dd4852d8-28ab-4156-b081-7c7710f30abe"
+      },
+      {
+        "songName": "Mr. Brownstone",
+        "duration": "3:48",
+        "number": "05",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FMr%20Brownstone..mp3?alt=media&token=43c24f1a-2f82-4ffd-8d4a-e2b98c3f6a9b"
+      },
+      {
+        "songName": "Paradise city",
+        "duration": "6:45",
+        "number": "06",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FParadise%20City.mp3?alt=media&token=40eac3dc-40d1-4f27-915d-c810b0efc36b"
+      },
+      {
+        "songName": "My Michelle",
+        "duration": "3:40",
+        "number": "07",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FMy%20Michelle.mp3?alt=media&token=f8bcfaca-5e69-402e-9acf-0fdb1c27d1b6"
+      },
+      {
+        "songName": "Think about you",
+        "duration": "3:51",
+        "number": "08",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FThink%20About%20You.mp3?alt=media&token=e052fd78-507b-4762-b0b1-4f4995cdf43c"
+      },
+      {
+        "songName": "Sweet child o' mine",
+        "duration": "5:56",
+        "number": "09",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FSweet%20Child%20O%20Mine.mp3?alt=media&token=c1a6d3a9-771a-4f87-90d7-d5c173743449"
+      },
+      {
+        "songName": "You're crazy",
+        "duration": "3:17",
+        "number": "10",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FYoure%20Crazy.mp3?alt=media&token=3290dadd-9144-4d8e-a1d2-a025548e6e18"
+      },
+      {
+        "songName": "Anything goes",
+        "duration": "3:26",
+        "number": "11",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FAnything%20Goes.mp3?alt=media&token=0c177e8d-3e9f-468c-b466-203ca7069ac1"
+      },
+      {
+        "songName": "Rocket Queen",
+        "duration": "6:13",
+        "number": "12",
+        "artists_evolved": ["Guns N' Roses"],
+        "artista": "Guns N' Roses",
+        "album": "Apetite For Destruction",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FGuns%20n%20roses%2FRocket%20Queen.mp3?alt=media&token=18c7f70f-a207-4270-84ca-968d3b5f2d59"
+      }
+    ]
+  },
+
+  {
+    "name": "Emanero",
+    "bio": "Federico Andrés Giannoni ​ conocido como Emanero es un rapero, compositor y productor discográfico argentino. Con más de 15 años de carrera y con canciones sobre la realidad social y los problemas personales, ​Emanero se ha convertido en un referente del hip hop/rap en Latinoamérica.​",
+    "photo_url": "https://assets.dev-filo.dift.io/img/2021/12/02/img_3151_sq.jpg",
+    "genre": ["Hip-Hop", "Rap."],
+    "background_image": "",
+    "songs": [
+      {
+        "songName": "Chernobyl",
+        "duration": "2:56",
+        "number": "01",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Chernobyl",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27329aacf6feb83e4c0e5b2985f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%2Fy2mate.com%20-%20Emanero%20%20Chernobyl%20Video%20Oficial.mp3?alt=media&token=de15a84f-5fdd-4e3b-a99c-d13ef01922e4"
+      },
+      {
+        "songName": "Pastillitas",
+        "number": "02",
+        "duration": "2:53",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Chernobyl",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27329aacf6feb83e4c0e5b2985f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%2Fy2mate.com%20-%20Emanero%20%20Pastillitas%20Video%20Oficial.mp3?alt=media&token=02f34030-e2b9-4db1-841c-4ae267866140"
+      },
+      {
+        "songName": "Como vos lo hacés",
+        "number": "03",
+        "duration": "3:21",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Chernobyl",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27329aacf6feb83e4c0e5b2985f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%2Fy2mate.com%20-%20Emanero%20%20Como%20Vos%20Lo%20Hac%C3%A9s%20Video%20Oficial.mp3?alt=media&token=5c2199f4-8c98-4303-813f-94b54f540cdf"
+      },
+      {
+        "songName": "Sola",
+        "number": "04",
+        "duration": "2:23",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero y Estani",
+        "album": "Chernobyl",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27329aacf6feb83e4c0e5b2985f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%2Fy2mate.com%20-%20Sola.mp3?alt=media&token=338d9d47-b24d-4057-9b7a-9ee0f3fd7aff"
+      },
+      {
+        "songName": "Porque puedo",
+        "number": "05",
+        "duration": "2:37",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Chernobyl",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27329aacf6feb83e4c0e5b2985f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%2Fy2mate.com%20-%20Porque%20Puedo.mp3?alt=media&token=23c61b21-dab5-4689-8bcc-72fe58d78a00"
+      },
+      {
+        "songName": "Quien es quien",
+        "number": "06",
+        "duration": "3:34",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Chernobyl",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27329aacf6feb83e4c0e5b2985f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%2FQuien%20Es%20Quien.mp3?alt=media&token=7649c2af-43cb-4595-be9e-9811c9eb0a45"
+      },
+      {
+        "songName": "Manicomio",
+        "number": "07",
+        "duration": "2:22",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Chernobyl",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27329aacf6feb83e4c0e5b2985f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%2FEmanero%20-%20Manicomio%20(Video%20Oficial).mp3?alt=media&token=8dce3a51-d441-482c-a276-8d8f2634ce91"
+      },
+      {
+        "songName": "WTF",
+        "number": "08",
+        "duration": "2:18",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Chernobyl",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27329aacf6feb83e4c0e5b2985f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%2FWTF.mp3?alt=media&token=7cfff0af-2fd0-4a37-80f1-16ed4dfbb26d"
+      },
+      {
+        "songName": "Bandido.",
+        "number": "09",
+        "duration": "4:33",
+        "artists_evolved": ["Emanero", "FMK", "Estani", "Rusherking."],
+        "artista": "Emanero",
+        "album": "Inédito",
+        "letra": "Por tu culpa me volví un bandido\nUn tipo malo que hace daño y que no se entrega al amor\nY ahora me gusta andar así perdido\nHoy lo lamento de antemano si te rompo el corazón (yeah)\n...\nVos te escapaste, corriste del peligro de mis besos\nYo quise buscar amor y vos solo me dabas sexo\nMe miraste, apoyaste en mi frente tus labios gruesos\nMe dejaste y entonces me enamoré de los exceso'\n...\nUn bandido es lo que soy, pero sin odio\nPorque soy amante, pero me olvidé cómo ser novio\nUn atorrante que, en busca de placer, encuentra agobio\nCuando deja que cualquiera se meta en su dormitorio\n...\nY hoy soy yo el que ya no quiere que lo quieran\nEl que corre porque siente que el amor es pa' problema\nY hoy soy yo el que siente que nada lo llena\nViviendo de fiesta y descontrol para esconder las penas\n...\nEh, ya no me cuido del entorno\nNo, mi corazón está de adorno\nEstoy viviendo en una peli' porno\nPasan miles por mi cama, pero ninguna sos vo', no\n...\nEmanero, servime otro vino\nQue estaba a punto de olvidarla y a la mente se me vino\nY ahora soy preso del sexo y los exceso'\nEstuve con diez bocas y ninguna da sus besos\n...\nY me volví un embustero\nAhora soy yo el que le dice que la quiero\nVendiéndoles un cuento que sé que no es verdadero\nBusqué paz en tu piel y resultaste ser de cuero, ey\n...\nY ahora ellas me piden a mí lo que te pedí tiempo atrás\nAsegurarnos que nuestros cuerpos no tengan encuentro con ninguno más\nPero soy lo que recibí y es eso lo que voy a dar\nMetiendo miles a mi cama, sabiendo que no las voy a amar\n...\nPor tu culpa me volví un bandido\nUn tipo malo que hace daño y que no se entrega al amor\nY ahora me gusta andar así perdido\nY lo lamento de antemano si te rompo el corazón\n...\nOtro trago amargo me sabe a ti\nTan dulce como tu forma de abandonar\nAhora ando descuidado por ahí\nCon la ropa de anoche, perdido en un bar\n...\nYa no me acuerdo ni cómo era tu boca\nLa cambié por otras que no hacen problemas si no siento na'\nY en tu nombre sirvo otra copa, una que está rota\nTú ere' el problema y no te quiero má'\n...\nTo lo malo que hago ahora es culpa de lo que me hiciste\n...\nYo era el chico bueno, pero en esto, nena, me convertiste\nEstoy confundido, si salgo pienso en ti, pero\nCon otra termino\nY no es que quiera que así sea, pero de alguna manera\nHay que llenar este vacío\nSi me preguntan, no siento culpa, me volviste un bandido\nTe llevaste algo que es mío, ey\n...\nDevuélveme el corazón\nQue me hace falta y no puedo enamorarme, ey\nDevuélveme el corazón\nQue me hace falta y no puedo enamorarme\n...\nPor tu culpa me volví bandido\nUn tipo malo que hace daño y que no se entrega al amor\nY ahora me gusta andar así perdido\nY lo lamento de antemano si te rompo el corazón",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2733a923d9f568a0d4c3dc85bb4",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2Fy2mate.com%20-%20Emanero%20FMK%20Estani%20Rusherking%20%20BANDIDO%20Official%20Video.mp3?alt=media&token=b07d2153-5fb1-470e-8d87-425cbdf1f16a"
+      },
+      {
+        "songName": "Veneno.",
+        "number": "10",
+        "duration": "4:34",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Tres Mil Millones de Años Luz",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273f064287d60fc0fbdd63285ef",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/salvandohuellas%2FEmanero%20-%20Veneno%20%F0%9F%92%94(Video%20Oficial)%20(320%20kbps).mp3?alt=media&token=8f448e09-a6f2-4482-95d8-c2b97d99737f"
+      },
+      {
+        "songName": "Esa morocha.",
+        "number": "11",
+        "duration": "1:36",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "Inédito",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2732a84dad25e4f5aee0e77ca10",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FEmanero%20%20Esa%20morocha%20Official%20Video.mp3?alt=media&token=6f23356e-084d-4817-859c-ee71f9a35f9e"
+      },
+      {
+        "songName": "Atorrante.",
+        "number": "12",
+        "duration": "4:22",
+        "artists_evolved": [
+          "Emanero",
+          "Ulises Bueno",
+          "Migrantes",
+          "Los Palmeras."
+        ],
+        "artista": "Emanero",
+        "album": "Inédito",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273b1581f9a79bbcc08201b0cbc",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2Fy2mate.com%20-%20Emanero%20Ulises%20Bueno%20Migrantes%20Los%20Palmeras%20%20ATORRANTE%20Official%20Video.mp3?alt=media&token=cb4050b7-8173-4ccf-bc91-f20711708953"
+      },
+      {
+        "songName": "No me digas que no.",
+        "number": "13",
+        "duration": "3:24",
+        "artists_evolved": ["Emanero", "Karina."],
+        "artista": "Emanero",
+        "album": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273b9a03b42ffc5fb22af6e55e4",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNo%20me%20digas%20que%20no.mp3?alt=media&token=e4254569-79c3-4f36-aaf1-66cec51cf216"
+      },
+      {
+        "songName": "Adicto",
+        "number": "14",
+        "duration": "3:25",
+        "artists_evolved": ["Emanero", "La Konga", "Antonio Rios"],
+        "artista": "Emanero",
+        "album": "Adicto",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2736333e0be71fd6dd058afcac2",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNo%20me%20digas%20que%20no.mp3?alt=media&token=e4254569-79c3-4f36-aaf1-66cec51cf216"
+      },
+      {
+        "songName": "Whisky",
+        "number": "15",
+        "duration": "2:21",
+        "artists_evolved": ["Emanero"],
+        "artista": "Emanero",
+        "album": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2735ef3fd63b8e398af3d9ff924",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FNo%20me%20digas%20que%20no.mp3?alt=media&token=e4254569-79c3-4f36-aaf1-66cec51cf216"
+      }
+    ]
+  },
+
+  {
+    "name": "Santaflow",
+    "bio": "Santaflow es un MC español y la más fiel definición de artista multidisciplinar del siglo XXI: artista, compositor, productor, letrista, cantante, músico y showman. Santaflow pone las palabras y el ritmo a lo que muchos no se atreven a decir.",
+    "photo_url": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+    "genre": ["Rap", "Rock."],
+    "background_image": "",
+    "songs": [
+      {
+        "songName": "Más Fuego",
+        "duration": "4:53",
+        "number": "01",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpghttps://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMas%20fuego.mp3?alt=media&token=ec85ee3d-3657-4978-97b0-574a37f7bdae"
+      },
+      {
+        "songName": "La cabra tira al monte",
+        "number": "02",
+        "duration": "4:16",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F02.%20Santaflow%20-%20La%20cabra%20tira%20al%20monte%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=82f260b1-b24d-4b3b-ac36-de4a7613ecce"
+      },
+      {
+        "songName": "Salto al vacío",
+        "duration": "03:04",
+        "number": "03",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow, Aitor y Norykko",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F03.%20Santaflow%20-%20Salto%20al%20vacio%20(con%20Aitor%20y%20Norykko)%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=aeb20b2b-b5ac-4c71-9277-81792662c9b7"
+      },
+      {
+        "songName": "Padre nuestro",
+        "duration": "05:34",
+        "number": "04",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F04.%20Santaflow%20-%20Padre%20nuestro%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=f1ddbe11-1e69-48d9-87c9-db5d61d5f074"
+      },
+      {
+        "songName": "Putos",
+        "duration": "05:57",
+        "number": "05",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow, Aitor, Elley, Sony y Medikoskil",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F05.%20Santaflow%20-%20Putos%20(con%20Aitor%2C%20Elley%2C%20Sony%20y%20Medikoskil)%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=b89f95a1-18c2-48ac-a41f-bddcdde3ab97"
+      },
+      {
+        "songName": "Sangre en la arena",
+        "duration": "03:59",
+        "number": "06",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F06.%20Santaflow%20-%20Sangre%20en%20la%20arena%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=b972783d-bbf5-4e66-a441-35af8b000753"
+      },
+      {
+        "songName": "En tu propia billis",
+        "duration": "04:48",
+        "number": "07",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F07.%20Santaflow%20-%20En%20tu%20propia%20bilis%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=6bdedf0b-46fb-491f-9f56-99552752be2c"
+      },
+      {
+        "songName": "Sin tiempo",
+        "duration": "04:52",
+        "number": "08",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow y Norykko",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F08.%20Santaflow%20-%20Sin%20tiempo%20(con%20Norykko)%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=fc6e5080-c36a-4af7-8c3e-3ec9adec1433"
+      },
+      {
+        "songName": "Surco las estrellas",
+        "duration": "03:38",
+        "number": "09",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F09.%20Santaflow%20-%20Surco%20las%20estrellas%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=730cc573-2ca1-4b48-afb2-fcf5a91ca9be"
+      },
+      {
+        "songName": "La senda",
+        "duration": "04:00",
+        "number": "10",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "Mas Fuego",
+        "letra": "",
+        "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F10.%20Santaflow%20-%20La%20senda%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=729ee470-99f9-4ff4-aec0-550a3039b35a"
+      },
+      {
+        "songName": "Sigo vivo",
+        "duration": "04:29",
+        "number": "11",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "Atlántico",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d00001e020b0a65c534eb57148270e3e3",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F10.%20Santaflow%20-%20La%20senda%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=729ee470-99f9-4ff4-aec0-550a3039b35a"
+      },
+      {
+        "songName": "Protocolo misántropo",
+        "duration": "04:30",
+        "number": "12",
+        "artists_evolved": ["Santaflow"],
+        "artista": "Santaflow",
+        "album": "",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27386ed404c589423fd56a26d5b",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2F10.%20Santaflow%20-%20La%20senda%20%5BProducido%20por%20Santaflow%5D%20-%20www.hhgroups.com.mp3?alt=media&token=729ee470-99f9-4ff4-aec0-550a3039b35a"
+      }
+    ]
+  },
+  {
+    "name": "Miranda",
+    "bio": "Miranda! es un dúo musical argentino de pop liderado por los cantantes Alejandro Sergi y Juliana Gattas. Fue formado a mediados de 2001​ y su nombre es un homenaje al actor argentino Osvaldo Miranda. Durante su trayectoria han editado nueve álbumes de estudio y seis álbumes en vivo.",
+    "photo_url": "https://contentv2.tap-commerce.com/cover/large/196588153426_1.jpg?id_com=1156&back=fad2e1",
+    "genre": ["Pop"],
+    "songs": [
+      {
+        "songName": "Don",
+        "duration": "3:17",
+        "number": "01",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y CA7RIEL",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://fmlike.com.ar/wp-content/uploads/2022/11/Album-Artwork-57.jpeg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FDon.mp3?alt=media&token=3c6be92d-b895-414f-a5ba-5e972a8c63ae"
+      },
+      {
+        "songName": "Yo te diré",
+        "number": "02",
+        "duration": "3:34",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y Lali",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://www.cmtv.com.ar/tapas-cd/0333315001674181993.webp",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FYo%20Te%20Dir%C3%A9.mp3?alt=media&token=302e4338-453d-419e-b228-a88dce3c94b3"
+      },
+      {
+        "songName": "Perfecta (Versión 2023)",
+        "number": "03",
+        "duration": "3:44",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda, María Bercerra y FMK",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://www.cmtv.com.ar/tapas-cd/0074703001681870354.webp",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FPerfecta.mp3?alt=media&token=c1b2dee5-13fe-485d-8e26-42df2933f215"
+      },
+      {
+        "songName": "Traición",
+        "number": "04",
+        "duration": "3:50",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda, Emmanuel Horvilleur y Juan Ingaramo",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273f5dce29eccf4f5e425729570",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FTraici%C3%B3n.mp3?alt=media&token=729e3d0c-c20c-41d8-b919-14064781f88a"
+      },
+      {
+        "songName": "Uno los Dos",
+        "number": "05",
+        "duration": "3:44",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y Emilia",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://www.cmtv.com.ar/tapas-cd/0473963001677263077.webp",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FUno%20los%20dos.mp3?alt=media&token=8c2ad9c6-7b26-4d2b-9c71-29c78fe86386"
+      },
+      {
+        "songName": "Prisionero",
+        "number": "06",
+        "duration": "4:01",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y Cristian Castro",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://www.cmtv.com.ar/tapas-cd/0482067001679361824.webp",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FPrisionero.mp3?alt=media&token=736c0226-6326-4843-8dcb-4c991da8790e"
+      },
+      {
+        "songName": "Enamorada",
+        "number": "07",
+        "duration": "3:09",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y Francisca Valenzuela",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://images.genius.com/8ab925bfe311a0d981a38e9a9dc34153.953x953x1.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FEnamorada.mp3?alt=media&token=fedbc276-8480-43de-84c1-0bb41e3a395b"
+      },
+      {
+        "songName": "Tu misterioso alguien",
+        "number": "08",
+        "duration": "4:13",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y Andrés Calamaro",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273a823544c94ec93d2858068aa",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FTu%20Misterioso%20Alguien.mp3?alt=media&token=347e544f-d1c2-4c10-a553-14313b6ac38a"
+      },
+      {
+        "songName": "Mentía",
+        "number": "09",
+        "duration": "3:17",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y Chano",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://contentv2.tap-commerce.com/cover/large/196588153426_1.jpg?id_com=1156&back=fad2e1",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FMent%C3%ADa.mp3?alt=media&token=158bc58a-5058-4e34-adc3-5ade9b109c6d"
+      },
+      {
+        "songName": "Ya lo sabía",
+        "number": "10",
+        "duration": "2:56",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y Sofía Reyes",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2739a7c697ccf93d3656578f27e",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FYa%20Lo%20Sab%C3%ADa.mp3?alt=media&token=fe736c65-8dce-4c98-be7b-29e09d83fe68"
+      },
+      {
+        "songName": "Navidad",
+        "number": "11",
+        "duration": "3:19",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda y Bandalos Chinos",
+        "album": "Hotel Miranda",
+        "letra": "",
+        "icon": "https://www.cmtv.com.ar/tapas-cd/0257558001670461141.webp",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FNavidad.mp3?alt=media&token=0deac9d0-2c76-47f0-9a07-e19c7d07b1a2"
+      },
+      {
+        "songName": "Perfecta",
+        "number": "12",
+        "duration": "3:45",
+        "artists_evolved": ["Miranda"],
+        "artista": "Miranda",
+        "album": "El disco de tu corazón",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273eaf31ed63e13e5e99edef309",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMiranda%2FNavidad.mp3?alt=media&token=0deac9d0-2c76-47f0-9a07-e19c7d07b1a2"
+      }
+    ]
+  },
+
+  {
+    "name": "Dillom",
+    "bio": "Dylan León Masa, conocido por su nombre artístico Dillom, es un rapero, compositor y productor discográfico argentino.​​​En 2018 saltó a la fama con su canción «Drippin», la cual él mismo produjo, a la que siguieron «Superglue», junto al músico Ill Quentín, y su sesión con Bizarrap.",
+    "photo_url": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+    "genre": ["Hip-Hop", "Rock", "Pop", "Horrorcore."],
+    "background_image": "",
+    "songs": [
+      {
+        "songName": "La primera",
+        "number": "01",
+        "duration": "3:19",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2Fy2mate.com%20-%20DILLOM%20%20LA%20PRIMERA%20Audio%20Oficial.mp3?alt=media&token=959a967b-8997-44e8-9d3f-bbea089052c1"
+      },
+      {
+        "songName": "Hegemonica",
+        "number": "02",
+        "duration": "1:47",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom y L-Gante",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2Fhegemonica.mp3?alt=media&token=d3371501-9cb1-445a-84be-ef098f4b6e1b"
+      },
+      {
+        "songName": "Pelotuda",
+        "number": "03",
+        "duration": "3:06",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FPelotuda.mp3?alt=media&token=3ef3323a-bce2-42f0-aab2-4e4b76c27f9d"
+      },
+      {
+        "songName": "Demian",
+        "number": "04",
+        "duration": "1:53",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom y Mario Pergolini",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FDemian.mp3?alt=media&token=06e641fa-5e66-4670-a686-b81119bf9cf8"
+      },
+      {
+        "songName": "Post Mortem",
+        "number": "05",
+        "duration": "2:40",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FPost%20Mortem.mp3?alt=media&token=54903947-783d-40fd-844a-b0eecae2fdc5"
+      },
+      {
+        "songName": "Bicicleta",
+        "number": "06",
+        "duration": "3:28",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FBicicleta.mp3?alt=media&token=1d0c1f87-66fa-4e99-8562-a90e562ce561"
+      },
+      {
+        "songName": "Duo",
+        "number": "07",
+        "duration": "0:43",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FDuo.mp3?alt=media&token=6c01b14d-2745-49c3-8f24-eac849b439fa"
+      },
+      {
+        "songName": "Piso 13",
+        "number": "08",
+        "duration": "3:28",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FPiso%2013.mp3?alt=media&token=03f9ba4a-4215-4eca-bcfd-995bf38986ba"
+      },
+      {
+        "songName": "Side",
+        "number": "09",
+        "duration": "3:12",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FSide.mp3?alt=media&token=801d7f46-2002-49d9-8f15-8f9415999690"
+      },
+      {
+        "songName": "Coach",
+        "number": "10",
+        "duration": "2:58",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom y Muerejoven",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FCoach.mp3?alt=media&token=f63f1d4d-6184-425e-91f7-9a1b316458e5"
+      },
+      {
+        "songName": "Bohemian Groove Skit",
+        "number": "11",
+        "duration": "1:01",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FBohemian%20Grove.mp3?alt=media&token=82725e74-79ea-4d51-952a-2f91c9b8f25a"
+      },
+      {
+        "songName": "OPA",
+        "number": "12",
+        "duration": "2:50",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FOpa.mp3?alt=media&token=ca0bf99d-03e7-49a5-aea9-59549d0f0e6b"
+      },
+      {
+        "songName": "Rili Rili",
+        "number": "13",
+        "duration": "2:20",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FRili%20Rili.mp3?alt=media&token=bc0df9d6-02d8-457d-a5f8-cc74fcc8cc99"
+      },
+      {
+        "songName": "220",
+        "number": "14",
+        "duration": "2:57",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2F220.mp3?alt=media&token=eb7d6505-cf8d-4d70-8581-ca78024ce98d"
+      },
+      {
+        "songName": "Toda la gente",
+        "number": "15",
+        "duration": "1:56",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FToda%20la%20gente.mp3?alt=media&token=0b9b0894-b3b5-4dad-b1f1-9b786b0ff194"
+      },
+      {
+        "songName": "Reality",
+        "number": "16",
+        "duration": "2:12",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FReality.mp3?alt=media&token=a673857a-8799-4b2f-8e95-8baa8b791e82"
+      },
+      {
+        "songName": "Rocketpowers",
+        "number": "17",
+        "duration": "3:09",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom y Saramalacara",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FRocketpowers.mp3?alt=media&token=1f6d2c73-0f81-416b-bc5d-ce82c2ac95ab"
+      },
+      {
+        "songName": "Amigos nuevos",
+        "number": "18",
+        "duration": "2:20",
+        "artists_evolved": ["Dillom"],
+        "artista": "Dillom",
+        "album": "Post Mortem",
+        "letra": "",
+        "icon": "https://indiehoy.com/wp-content/uploads/2021/12/dillom.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FDillom%2FAmigos%20nuevos.mp3?alt=media&token=3e6dd060-f0bf-4eb1-a130-342ad2b1fe02"
+      }
+    ]
+  },
+  {
+    "name": "Bizarrap",
+    "bio": "Gonzalo Julián Conde, conocido artísticamente como Bizarrap, es un productor discográfico, DJ y compositor argentino. Es conocido por crear las BZRP Music Sessions, sesiones de música que realiza junto a otros artistas.​​",
+    "genre": ["Trap", "Reguetón", "Hip-Hop", "Pop", "Rap."],
+    "photo_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2Fbzrp.jpg?alt=media&token=93d5cf2f-1691-42bc-b743-b3710d988205",
+    "songs": [
+      {
+        "songName": "Music Sessions #3",
+        "number": "03",
+        "duration": "2:33",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Paco Amoroso",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://images.genius.com/4f2232574aaa5f933fc64a8ddd662a3e.800x800x1.png",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FPACO%20AMOROSO%20.mp3?alt=media&token=812f0023-56e7-43ca-ae59-0f4b493c9521"
+      },
+      {
+        "songName": "Music Sessions #9",
+        "number": "09",
+        "duration": "2:45",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Dillom",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i1.sndcdn.com/artworks-YGKH3cK8OkFm-0-t500x500.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FDILLOM.mp3?alt=media&token=4332f136-9988-446a-92ef-37193e3c604d"
+      },
+      {
+        "songName": "Music Sessions #10",
+        "number": "10",
+        "duration": "2:11",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Frijo",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://www.cmtv.com.ar/tapas-cd/0382517001585809869.webp",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FFRIJO.mp3?alt=media&token=df680cd6-d6bf-47b0-9ae4-1debaf3e6bb2"
+      },
+      {
+        "songName": "Music Sessions #11",
+        "number": "11",
+        "duration": "2:46",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Kiddo Toto",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://www.cmtv.com.ar/tapas-cd/0809564001585810998.webp",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FKIDDO%20TOTO.mp3?alt=media&token=04424e31-dbe5-47ee-bedd-fbd2b01be55c"
+      },
+      {
+        "songName": "Music Sessions #12",
+        "number": "12",
+        "duration": "2:52",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Mesita",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://www.cmtv.com.ar/tapas-cd/0927994001585812241.webp",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FMESITA.mp3?alt=media&token=347064f1-f99f-4186-ba5c-8a9286ed01aa"
+      },
+      {
+        "songName": "Music Sessions #13",
+        "number": "13",
+        "duration": "2:26",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Nicki Nicole",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273d60b0794d66fb14b2974d92e",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FNICKI%20NICOLE.mp3?alt=media&token=c7205e2f-dee5-4391-a1f0-ede71ae5ef17"
+      },
+      {
+        "songName": "Music Sessions #18",
+        "number": "18",
+        "duration": "2:19",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "John C",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i1.sndcdn.com/artworks-syzHodzeGj73-0-t500x500.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FJOHN%20C.mp3?alt=media&token=42d70679-a06d-4139-b6af-faa6eae3d1ad"
+      },
+      {
+        "songName": "Music Sessions #23",
+        "number": "23",
+        "duration": "4:18",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Paulo Londra",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27342f5c9660f46df77e7ab71be",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FPAULO%20LONDRA.mp3?alt=media&token=65a27354-a3a1-4c17-8b6b-97cf6baec1b3"
+      },
+      {
+        "songName": "Music Sessions #24",
+        "number": "24",
+        "duration": "2:58",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Dani",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2733b725fdae98660fbdf3a79c9",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FDANI.mp3?alt=media&token=d1c25a7b-e6e5-4d33-b5ed-190490718916"
+      },
+      {
+        "songName": "Music Sessions #25",
+        "number": "25",
+        "duration": "2:42",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Don Patricio",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27325bb46ea2a1dcf91898f6622",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FDON%20PATRICIO.mp3?alt=media&token=6fdc7b2c-b15b-4a28-b8b2-2d3957da3d4a"
+      },
+      {
+        "songName": "Music Sessions #32",
+        "number": "32",
+        "duration": "2:31",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Cazzu",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2731524b39b20c023c61559c4b7",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FCAZZU.mp3?alt=media&token=b9b491b5-cec0-4f35-80f8-40c602bac14c"
+      },
+      {
+        "songName": "Music Sessions #34",
+        "number": "34",
+        "duration": "3:26",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Khea",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273277b88f70945580009c993a8",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FKHEA.mp3?alt=media&token=6ff19b30-2bde-422a-806f-7761589814ea"
+      },
+      {
+        "songName": "Music Sessions #36",
+        "number": "36",
+        "duration": "2:56",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Nathy Peluso",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273559e8529d086f60e1752930b",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FNATHY%20PELUSO.mp3?alt=media&token=0d127a28-9ea7-4c13-9ba8-ffb1f08e952e"
+      },
+      {
+        "songName": "Music Sessions #37",
+        "number": "37",
+        "duration": "2:37",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Ysy A",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2739f185af16085ffa8c91b94eb",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FYSY%20A.mp3?alt=media&token=b63aa5a7-e73f-49d1-8e12-b88ef432b7a5"
+      },
+      {
+        "songName": "Music Sessions #38",
+        "number": "38",
+        "duration": "3:15",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "L-Gante",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273dada4e65cefce3bdc16a8dae",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FLGante.mp3?alt=media&token=50c80e00-2320-408e-9860-3ecd0fbe24ab"
+      },
+      {
+        "songName": "Music Sessions #39",
+        "number": "39",
+        "duration": "3:04",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Snow Tha Product",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273bd116c7afc71fe322e5c8206",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FSnow%20Tha%20Product.mp3?alt=media&token=cedd4938-472b-4902-a4c2-9916e236b231"
+      },
+      {
+        "songName": "Music Sessions #45",
+        "number": "45",
+        "duration": "2:47",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Ptazeta",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273f6f7e0ce04a4f66622db1ffe",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FPTAZETA.mp3?alt=media&token=1e78ced5-a70c-40a3-bfe7-d4ec3af1a3c8"
+      },
+      {
+        "songName": "Music Sessions #48",
+        "number": "48",
+        "duration": "2:47",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Tiago PZK",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2735bddce84bc8f03ac82c988d4",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FTIAGO%20PZK.mp3?alt=media&token=e680a085-45ab-4312-a09b-bcbdbe828a0c"
+      },
+      {
+        "songName": "Music Sessions #50",
+        "number": "50",
+        "duration": "3:52",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Duki",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27393c4eec56cea95c9022ed28f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FDUKI.mp3?alt=media&token=e314240f-89cc-45aa-9ad0-3ae7cd48b95d"
+      },
+      {
+        "songName": "Music Sessions #52",
+        "number": "52",
+        "duration": "3:24",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Quevedo",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FQUEVEDO.mp3?alt=media&token=86b618a7-82a0-4570-9469-68c684618ebc"
+      },
+      {
+        "songName": "Music Sessions #53",
+        "number": "53",
+        "duration": "3:38",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Shakira",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FSHAKIRA.mp3?alt=media&token=609f31b0-c98c-42fa-b89d-06ed1dcb9cde"
+      }
+    ]
+  },
+  {
+    "name": "Queen",
+    "bio": "Queen es una banda británica de rock formada en 1970 en Londres, integrada por el cantante y pianista Freddie Mercury, el guitarrista Brian May, el baterista Roger Taylor y el bajista John Deacon.​",
+    "genre": ["Rock"],
+    "photo_url": "https://i.scdn.co/image/ab67616d0000b27328581cfe196c266c132a9d62",
+    "songs": [
+      {
+        "songName": "Bohemian Rhapsody",
+        "number": "01",
+        "duration": "5:59",
+        "artists_evolved": ["Queen"],
+        "artista": "Queen",
+        "album": "Bohemian Rhapsody",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27328581cfe196c266c132a9d62",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBohemian%20Rhapsody.mp3?alt=media&token=0a1d7ca6-d5b7-4316-a581-284de23ff3f7"
+      },
+      {
+        "songName": "The Show Must Go On",
+        "number": "02",
+        "duration": "4:22",
+        "artists_evolved": ["Queen"],
+        "artista": "Queen",
+        "album": "Innuendo",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27350dcdcb73b5bbff6d3136131",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBohemian%20Rhapsody.mp3?alt=media&token=0a1d7ca6-d5b7-4316-a581-284de23ff3f7"
+      },
+      {
+        "songName": "We Are The Champions",
+        "number": "03",
+        "duration": "3:06",
+        "artists_evolved": ["Queen"],
+        "artista": "Queen",
+        "album": " News of the World",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27328af20e27e04121b00bdf876",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBohemian%20Rhapsody.mp3?alt=media&token=0a1d7ca6-d5b7-4316-a581-284de23ff3f7"
+      }
+    ]
+  },
+  {
+    "name": "Gustavo Cerati",
+    "bio": "Gustavo Adrián Cerati, conocido como Gustavo Cerati, fue un músico, cantautor y productor discográfico argentino que obtuvo reconocimiento internacional por haber sido el líder, vocalista, compositor y guitarrista de la banda de rock Soda Stereo.​",
+    "genre": ["Rock"],
+    "photo_url": "https://i.scdn.co/image/ab6761610000e5ebec52b75579f465ff1a23d3e4",
+    "songs": [
+      {
+        "songName": "Crimen.",
+        "number": "01",
+        "duration": "3:54",
+        "artists_evolved": ["Gustavo Cerati"],
+        "artista": "Gustavo Cerati",
+        "album": "Gustavo Cerati",
+        "letra": "",
+        "icon": "https://i1.sndcdn.com/artworks-000162846768-kt6hym-t500x500.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FGustavo%20Cerati%20%20Crimen.mp3?alt=media&token=d1bc3cd0-0ab3-497d-88ef-edc1a1120fc8"
+      },
+      {
+        "songName": "Adiós.",
+        "number": "02",
+        "duration": "3:55",
+        "artists_evolved": ["Gustavo Cerati"],
+        "artista": "Gustavo Cerati",
+        "album": "Gustavo Cerati",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2Fy2mate.com%20-%20Gustavo%20Cerati%20Adi%C3%B3s%20Official%20Video.mp3?alt=media&token=7f412e65-0771-4a8c-af9b-0bf5b1b13600"
+      },
+      {
+        "songName": "Trátame suavemente",
+        "number": "03",
+        "duration": "3:22",
+        "artists_evolved": ["Gustavo Cerati"],
+        "artista": "Gustavo Cerati",
+        "album": "Soda Stereo",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2738fd9b16eb6bdd20c95717258",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2Fy2mate.com%20-%20Gustavo%20Cerati%20Adi%C3%B3s%20Official%20Video.mp3?alt=media&token=7f412e65-0771-4a8c-af9b-0bf5b1b13600"
+      }
+    ]
+  },
+  {
+    "name": "Attaque 77",
+    "bio": "Attaque 77, estilizado A77aque, es una reconocida banda de punk rock de Argentina, formada en la ciudad de Buenos Aires en 1987. Es un trío integrado por Mariano Gabriel Martínez, Luciano Scaglione y Leonardo De Cecco, en su última formación. Varios de sus álbumes obtuvieron certificaciones de oro y platino.​",
+    "genre": ["Rock"],
+    "photo_url": "https://akamai.sscdn.co/uploadfile/letras/albuns/a/5/9/4/633591524754449.jpg",
+    "songs": [
+      {
+        "songName": "Arrancacorazones.",
+        "number": "01",
+        "duration": "4:17",
+        "artists_evolved": ["Attaque 77"],
+        "artista": "Attaque 77",
+        "album": "Attaque 77",
+        "letra": "",
+        "icon": "https://akamai.sscdn.co/uploadfile/letras/albuns/a/5/9/4/633591524754449.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FArrancacorazones.mp3?alt=media&token=d80a1256-da7b-495d-96cb-c3aab437cacc"
+      },
+      {
+        "songName": "No me arrepiento de este amor",
+        "number": "02",
+        "duration": "3:27",
+        "artists_evolved": ["Attaque 77"],
+        "artista": "Attaque 77",
+        "album": "Attaque 77",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2731871e0880d72819d7a16fb4f",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FArrancacorazones.mp3?alt=media&token=d80a1256-da7b-495d-96cb-c3aab437cacc"
+      },
+      {
+        "songName": "Hacelo por mí",
+        "number": "03",
+        "duration": "3:49",
+        "artists_evolved": ["Attaque 77"],
+        "artista": "Attaque 77",
+        "album": "El cielo puede esperar",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273f5d6436b394a1bef339fd197",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FArrancacorazones.mp3?alt=media&token=d80a1256-da7b-495d-96cb-c3aab437cacc"
+      }
+    ]
+  },
+  {
+    "name": "Andrés Calamaro",
+    "bio": "Andrés Calamaro es un cantautor, músico, compositor y productor discográfico argentino. Es considerado uno de los íconos del rock argentino por su actuación con Los Abuelos de la Nada y su prolífica carrera como solista, así como una figura influyente del rock español por su éxito con Los Rodríguez.​",
+    "genre": ["Rock"],
+    "photo_url": "https://i.scdn.co/image/ab67616d0000b273e4b8ec3d2ffe1f77c7185d48",
+    "songs": [
+      {
+        "songName": "Flaca.",
+        "number": "01",
+        "duration": "4:32",
+        "artists_evolved": ["Andrés Calamaro"],
+        "artista": "Andrés Calamaro",
+        "album": "Andrés Calamaro",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273e4b8ec3d2ffe1f77c7185d48",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2Fy2mate.com%20-%20Andr%C3%A9s%20Calamaro%20%20Flaca%20Videoclip%20Oficial.mp3?alt=media&token=3677c608-21e0-41c9-8bdd-eed0191efbaa"
+      },
+      {
+        "songName": "Cuando no estás",
+        "number": "02",
+        "duration": "3:30",
+        "artists_evolved": ["Andrés Calamaro"],
+        "artista": "Andrés Calamaro",
+        "album": "Bohemio",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2734aaffa19f7fdc2ec78823760",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2Fy2mate.com%20-%20Andr%C3%A9s%20Calamaro%20%20Flaca%20Videoclip%20Oficial.mp3?alt=media&token=3677c608-21e0-41c9-8bdd-eed0191efbaa"
+      },
+      {
+        "songName": "Cuando te conocí",
+        "number": "03",
+        "duration": "3:19",
+        "artists_evolved": ["Andrés Calamaro"],
+        "artista": "Andrés Calamaro",
+        "album": "Honestidad brutal",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273ff005a174a4100e63335624c",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2Fy2mate.com%20-%20Andr%C3%A9s%20Calamaro%20%20Flaca%20Videoclip%20Oficial.mp3?alt=media&token=3677c608-21e0-41c9-8bdd-eed0191efbaa"
+      }
+    ]
+  },
+  {
+    "name": "La Renga",
+    "bio": "La Renga es un grupo musical de Hard rock de Argentina formado en el barrio de Mataderos, Buenos Aires, en 1988.​",
+    "genre": ["Rock"],
+    "photo_url": "https://i.scdn.co/image/ab676161000051740b00de9f4a1eea1acf9518e8",
+    "songs": [
+      {
+        "songName": "Balada del Diablo y La Muerte.",
+        "number": "01",
+        "duration": "5:37",
+        "artists_evolved": ["La Renga"],
+        "artista": "La Renga",
+        "album": "La Renga",
+        "letra": "",
+        "icon": "https://images.genius.com/ef75ac62fcf4c0e04bbcbdf2f105959f.999x999x1.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2Fy2mate.com%20-%20La%20Renga%20%20Balada%20Del%20Diablo%20y%20La%20Muerte.mp3?alt=media&token=66e543cf-8ff0-4511-8168-226b3b0701a5"
+      },
+      {
+        "songName": "Triste canción de amor",
+        "number": "02",
+        "duration": "5:07",
+        "artists_evolved": ["La Renga"],
+        "artista": "La Renga",
+        "album": "A donde me lleva la vida",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273c5a95016d412fd8bc0884084",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2Fy2mate.com%20-%20La%20Renga%20%20Balada%20Del%20Diablo%20y%20La%20Muerte.mp3?alt=media&token=66e543cf-8ff0-4511-8168-226b3b0701a5"
+      },
+      {
+        "songName": "Cuando estés acá",
+        "number": "03",
+        "duration": "4:56",
+        "artists_evolved": ["La Renga"],
+        "artista": "La Renga",
+        "album": "La Renga",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2731aa8c66e1c27469058e2b794",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2Fy2mate.com%20-%20La%20Renga%20%20Balada%20Del%20Diablo%20y%20La%20Muerte.mp3?alt=media&token=66e543cf-8ff0-4511-8168-226b3b0701a5"
+      }
+    ]
+  },
+  {
+    "name": "Callejeros",
+    "bio": "Callejeros es un grupo musical de Argentina, formado en Ciudad Celina, Buenos Aires Argentina, en el año 1995 y disuelta en 2010.​Su primer nombre fue Río Verde. Musicalmente fue conocido por varias canciones, ​ de las cuales «Una nueva noche fría» es la que tuvo mayor difusión.​",
+    "genre": ["Rock"],
+    "photo_url": "https://i.scdn.co/image/ab6761610000e5eb955fe34eada328d7c586ba31",
+    "songs": [
+      {
+        "songName": "9 de Julio.",
+        "number": "01",
+        "duration": "3:46",
+        "artists_evolved": ["Callejeros"],
+        "artista": "Callejeros",
+        "album": "Callejeros",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273c2a9bdace7dc75d29cc6cd14",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FCallejeros%20%209%20de%20Julio.mp3?alt=media&token=b4f9bd7a-79d1-4d03-a29d-08c440c1be83"
+      },
+      {
+        "songName": "Una noche fría.",
+        "number": "02",
+        "duration": "4:37",
+        "artists_evolved": ["Callejeros"],
+        "artista": "Callejeros",
+        "album": "Callejeros",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273b677351ba1a313790b669ad5",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FUna%20Nueva%20Noche%20Fr%C3%ADa%20Letra.mp3?alt=media&token=e04205c2-1af7-4edb-bc3a-2bcdf096ba9d"
+      },
+      {
+        "songName": "Creo.",
+        "number": "03",
+        "duration": "4:49",
+        "artists_evolved": ["Callejeros"],
+        "artista": "Callejeros",
+        "album": "Callejeros",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273c2a9bdace7dc75d29cc6cd14",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FCreo.mp3?alt=media&token=8999ad82-0b4c-4ada-be7c-1733e4532e2b"
+      }
+    ]
+  },
+  {
+    "name": "Los Tipitos",
+    "bio": "Los Tipitos es una banda de rock argentino, formada en 1994 en la ciudad de Mar del Plata. La banda tiene influencias de músicos importantes del rock argentino, como Charly García o León Gieco.​​",
+    "genre": ["Rock"],
+    "photo_url": "https://i.scdn.co/image/ab6761610000e5eb82f18692b08d6c69f0215235",
+    "songs": [
+      {
+        "songName": "Campanas de la noche.",
+        "number": "01",
+        "duration": "3:57",
+        "artists_evolved": ["Los Tipitos"],
+        "artista": "Los Tipitos",
+        "album": "Los Tipitos",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2737595d95cd3bd00708516bb27",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FCampanas%20en%20la%20noche.mp3?alt=media&token=b2e7a66b-f1ce-45eb-8b6a-a90d6c034363"
+      },
+      {
+        "songName": "Solo figuras.",
+        "number": "02",
+        "duration": "2:56",
+        "artists_evolved": ["Los Tipitos, Leo Gieco"],
+        "artista": "Los Tipitos y Leo Gieco",
+        "album": "Los Tipitos",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273638042c194aa79eddcf58059",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FSolo%20figuras.mp3?alt=media&token=a91a1e87-90b1-481b-b660-5ec1b0a05b5e"
+      },
+      {
+        "songName": "Silencio",
+        "number": "03",
+        "duration": "2:56",
+        "artists_evolved": ["Los Tipitos"],
+        "artista": "Los Tipitos",
+        "album": "Armandi Camaleón",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2735c54b1c82340ebace0d27893",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FSolo%20figuras.mp3?alt=media&token=a91a1e87-90b1-481b-b660-5ec1b0a05b5e"
+      }
+    ]
+  },
+  {
+    "name": "Pity Alvarez",
+    "bio": "Cristian Gabriel Álvarez Congiú, más conocido por su nombre artístico Pity Álvarez, es un cantante y compositor argentino. Es reconocido por ser el líder y fundador de las bandas Viejas Locas e Intoxicados. En 1989 ingresó a la banda Viejas Locas.​",
+    "genre": ["Rock"],
+    "photo_url": "https://i.scdn.co/image/ab67706c0000da84fdfeb19f106764abba0e6191",
+    "songs": [
+      {
+        "songName": "Fuego.",
+        "number": "01",
+        "duration": "4:21",
+        "artists_evolved": ["Intoxicados", "Andrés Calamaro"],
+        "artista": "Intoxicados y Andrés Calamaro",
+        "album": "Otro día en el planeta Tierra",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273cdd8ead7c7be9879e30e7cb0",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FIntoxicados.mp3?alt=media&token=7ff11041-5896-489b-88cd-9b6333272a3f"
+      },
+      {
+        "songName": "Nunca quise",
+        "number": "02",
+        "duration": "3:47",
+        "artists_evolved": ["Intoxicados"],
+        "artista": "Intoxicados",
+        "album": "Otro día en el planeta Tierra",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273cdd8ead7c7be9879e30e7cb0",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FIntoxicados.mp3?alt=media&token=7ff11041-5896-489b-88cd-9b6333272a3f"
+      },
+      {
+        "songName": "Una vela",
+        "number": "03",
+        "duration": "4:19",
+        "artists_evolved": ["Intoxicados"],
+        "artista": "Intoxicados",
+        "album": "No es sólo rock and roll",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2733ee9a09c327e80b3f67ac003",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FIntoxicados.mp3?alt=media&token=7ff11041-5896-489b-88cd-9b6333272a3f"
+      }
+    ]
+  },
+  {
+    "name": "Rata Blanca",
+    "bio": "Rata Blanca es un grupo musical argentino de hard rock y heavy metal formado en 1985 en la zona del Bajo Flores, barrio ubicado al sur de la ciudad de Buenos Aires.​",
+    "genre": ["Rock"],
+    "photo_url": "https://i.scdn.co/image/ab67706c0000da84cdbf3cba94cd700f724bcd6a",
+    "songs": [
+      {
+        "songName": "Aún estás en mis sueños.",
+        "number": "01",
+        "duration": "5:03",
+        "artists_evolved": ["Rata Blanca"],
+        "artista": "Rata Blanca",
+        "album": "La llave de la puerta secreta",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273c9d55bbe57850e8db251d094",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FAun%20estas%20en%20mis%20sue%C3%B1os.mp3?alt=media&token=af34114e-6312-443a-b9fb-363d7b2e0ff3"
+      },
+      {
+        "songName": "Mujer amantes",
+        "number": "02",
+        "duration": "5:54",
+        "artists_evolved": ["Rata Blanca"],
+        "artista": "Rata Blanca",
+        "album": "Magos, espadas y rosas",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d00001e02478c3f69d4259a077b0d8094",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FAun%20estas%20en%20mis%20sue%C3%B1os.mp3?alt=media&token=af34114e-6312-443a-b9fb-363d7b2e0ff3"
+      },
+      {
+        "songName": "La leyenda del hada y el mago",
+        "number": "03",
+        "duration": "5:19",
+        "artists_evolved": ["Rata Blanca"],
+        "artista": "Rata Blanca",
+        "album": "Magos, espadas y rosas",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d00001e02478c3f69d4259a077b0d8094",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FRock%20Nacional%2FAun%20estas%20en%20mis%20sue%C3%B1os.mp3?alt=media&token=af34114e-6312-443a-b9fb-363d7b2e0ff3"
+      }
+    ]
+  },
+  {
+    "name": "Ysy A",
+    "bio": "Alejo Nahuel Acosta, conocido artísticamente como YSY A, ​ es un rapero, productor, freestyler, cantautor acústico y diseñador argentino.​Alejo Acosta se hizo conocido en 2013 cuando formó la competencia de rap El Quinto Escalón con apenas 15 años, junto al músico y presentador Muphasa MC.​",
+    "genre": ["Trap"],
+    "photo_url": "https://i.scdn.co/image/ab67706c0000da844f3d5f6d5768fc298be3104f",
+    "songs": [
+      {
+        "songName": "Un flow de infarto.",
+        "number": "01",
+        "duration": "2:31",
+        "artists_evolved": ["Ysy A"],
+        "artista": "Ysy A",
+        "album": "Ysy A 2020",
+        "letra": "",
+        "icon": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/JAQ2ZFXEKVCDRBVCGULSAJQUOE.jpg",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FUn%20flow%20de%20infarto%20prod%20Bizarrap%20%20YSYA2020%20Vol%206.mp3?alt=media&token=e24aaf24-ca27-4f62-af84-a9b0496c767f"
+      },
+      {
+        "songName": "Una de Dos",
+        "number": "02",
+        "duration": "2:37",
+        "artists_evolved": ["Ysy A"],
+        "artista": "Ysy A",
+        "album": "Ysy A 2020",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2739e202241efc1843e2dd79710",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FYSY%20A.mp3?alt=media&token=b63aa5a7-e73f-49d1-8e12-b88ef432b7a5"
+      },
+      {
+        "songName": "Silbando",
+        "number": "03",
+        "duration": "2:05",
+        "artists_evolved": ["Ysy A"],
+        "artista": "Ysy A",
+        "album": "Ysy A 2020",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b27356d05786bf803ac85fbd6f3a",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FYSY%20A.mp3?alt=media&token=b63aa5a7-e73f-49d1-8e12-b88ef432b7a5"
+      }
+    ]
+  },
+  {
+    "name": "Quevedo",
+    "bio": "Pedro Luis Domínguez Quevedo, conocido artísticamente como Quevedo, es un cantante, rapero y compositor español de reguetón, trap y pop rap.​",
+    "genre": ["Trap", "Reguetón", "Rap"],
+    "photo_url": "https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0",
+    "songs": [
+      {
+        "songName": "Columbia.",
+        "number": "01",
+        "duration": "3:25",
+        "artists_evolved": ["Quevedo"],
+        "artista": "Quevedo",
+        "album": "",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2Fy2mate.com%20-%20Columbia%20%20Quevedo%20Video%20Oficial.mp3?alt=media&token=0a74173a-04e2-4a66-bc82-109484255ace"
+      },
+      {
+        "songName": "Punto G.",
+        "number": "02",
+        "duration": "2:36",
+        "artists_evolved": ["Quevedo"],
+        "artista": "Quevedo",
+        "album": "",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2736cb5d045d3dbe6dd32776569",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FPunto%20G.mp3?alt=media&token=0c74f56d-266c-4bf9-8b83-d426986b6bfb"
+      },
+      {
+        "songName": "Music Sessions #52.",
+        "number": "03",
+        "duration": "3:24",
+        "artists_evolved": ["Bizarrap"],
+        "artista": "Quevedo",
+        "album": "Music Sessions",
+        "letra": "",
+        "icon": "https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf",
+        "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FBizarrap%2FQUEVEDO.mp3?alt=media&token=86b618a7-82a0-4570-9469-68c684618ebc"
+      }
+    ]
+  }
+]

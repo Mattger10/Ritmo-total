@@ -1,0 +1,211 @@
+[
+  {
+    "name": "Santaflow",
+    "bio": "Nirvana fue una banda de rock estadounidense formada en Aberdeen, Washington, en 1987. Fundada por el cantante y guitarrista Kurt Cobain y el bajista Krist Novoselic, la banda pasó por una sucesión de bateristas, sobre todo Chad Channing, y luego reclutó a Dave Grohl en 1990.",
+    "genre": ["Grunge", "Rock", "Punk Rock"],
+    "photo_url": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+    "background_image": "",
+    "albums": [
+      {
+        "albumName": "Red Vol. 1",
+        "artist": "Santaflow",
+        "albumCover": "https://i.scdn.co/image/ab67616d0000b273ea69a1654cda64510420b271",
+        "releaseYear": "Año de lanzamiento",
+        "songs": [
+          {
+            "songName": "Red",
+            "duration": "4:15",
+            "number": "01",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273ea69a1654cda64510420b271",
+            "song_url": ""
+          },
+          {
+            "songName": "Espabila",
+            "number": "02",
+            "duration": "4:09",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273ea69a1654cda64510420b271",
+            "song_url": ""
+          },
+          {
+            "songName": "Mi candidatura",
+            "duration": "4:54",
+            "number": "03",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273ea69a1654cda64510420b271",
+            "song_url": ""
+          },
+          {
+            "songName": "Nadie es de nadie",
+            "duration": "3:50",
+            "number": "04",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273ea69a1654cda64510420b271",
+            "song_url": ""
+          },
+          {
+            "songName": "Tiempo de lucha",
+            "duration": "3:52",
+            "number": "05",
+            "artists_evolved": [
+              "Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273ea69a1654cda64510420b271",
+            "song_url": ""
+          },
+          {
+            "songName": "Sin miedo a caer",
+            "duration": "4:17",
+            "number": "06",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow, Norykko, Santa RM y Aitor",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273ea69a1654cda64510420b271",
+            "song_url": ""
+          },
+          {
+            "songName": "Las cartas sobre la mesa",
+            "duration": "12:35",
+            "number": "07",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273ea69a1654cda64510420b271",
+            "song_url": ""
+          }
+        ]
+      },
+      {
+        "albumName": "Ave Fenix",
+        "artist": "Santaflow",
+        "albumCover": "https://i.scdn.co/image/ab67616d0000b273f2ce524c9cc74d8b4bcab42a",
+        "releaseYear": "Año de lanzamiento",
+        "songs": [
+          {
+            "songName": "Red",
+            "duration": "4:15",
+            "number": "01",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273f2ce524c9cc74d8b4bcab42a",
+            "song_url": ""
+          }
+        ]
+      },
+      {
+        "albumName": "Yo, Santaflow",
+        "artist": "Santaflow",
+        "albumCover": "https://i.scdn.co/image/ab67616d0000b273aed59b5c9fa18874cfb9ae95",
+        "releaseYear": "2007",
+        "songs": [
+          {
+            "songName": "Red",
+            "duration": "4:15",
+            "number": "01",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273f2ce524c9cc74d8b4bcab42a",
+            "song_url": ""
+          }
+        ]
+      },
+      {
+        "albumName": "Más Fuego",
+        "artist": "Santaflow",
+        "albumCover": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "releaseYear": "2007",
+        "songs": [
+          {
+            "songName": "Red",
+            "duration": "4:15",
+            "number": "01",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273f2ce524c9cc74d8b4bcab42a",
+            "song_url": ""
+          }
+        ]
+      },
+      {
+        "albumName": "Atlántico",
+        "artist": "Santaflow",
+        "albumCover": "https://i.scdn.co/image/ab67616d0000b2730b0a65c534eb57148270e3e3",
+        "releaseYear": "2007",
+        "songs": [
+          {
+            "songName": "Red",
+            "duration": "4:15",
+            "number": "01",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "album": "Red vol. 1",
+            "letra": "",
+            "icon": "https://i.scdn.co/image/ab67616d0000b273f2ce524c9cc74d8b4bcab42a",
+            "song_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nirvana",
+    "bio": "Nirvana fue una banda de rock estadounidense formada en Aberdeen, Washington, en 1987. Fundada por el cantante y guitarrista Kurt Cobain y el bajista Krist Novoselic, la banda pasó por una sucesión de bateristas, sobre todo Chad Channing, y luego reclutó a Dave Grohl en 1990.",
+    "genre": ["Grunge", "Rock", "Punk Rock"],
+    "photo_url": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+    "background_image": "",
+    "albums": [
+      {
+        "albumName": "Mas Fuego",
+        "artist": "Nirvana",
+        "albumCover": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+        "releaseYear": "Año de lanzamiento",
+        "photo_url": "https://m.media-amazon.com/images/I/71DQrKpImPL._UF894,1000_QL80_.jpg",
+        "songs": [
+          {
+            "songName": "Más Fuego",
+            "duration": "4:53",
+            "number": "01",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "letra": "",
+            "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+            "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMas%20fuego.mp3?alt=media&token=ec85ee3d-3657-4978-97b0-574a37f7bdae"
+          },
+          {
+            "songName": "Más Fuego",
+            "duration": "4:53",
+            "number": "01",
+            "artists_evolved": ["Santaflow"],
+            "artista": "Santaflow",
+            "letra": "",
+            "icon": "https://mp3.hhgroups.com/albumes/Santaflow-Delantera_Mas-fuego-24454.jpg",
+            "song_url": "https://firebasestorage.googleapis.com/v0/b/salvandohuellas.appspot.com/o/Musicas%2FMas%20fuego.mp3?alt=media&token=ec85ee3d-3657-4978-97b0-574a37f7bdae"
+          }
+        ]
+      }
+    ]
+  }
+]
