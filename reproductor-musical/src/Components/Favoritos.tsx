@@ -56,12 +56,12 @@ const Favoritos: React.FunctionComponent<FavoritosProps> = ({
     } else {
       setFavoritos((prevFavoritos) => [...prevFavoritos, songName]);
     }
-    localStorage.setItem("favoritos", JSON.stringify(favoritos));
   };
-
+  
   React.useEffect(() => {
     localStorage.setItem("favoritos", JSON.stringify(favoritos));
   }, [favoritos]);
+  
 
   const [, setMostrarReproductorFavoritos] = React.useState(false);
 

@@ -444,11 +444,10 @@ const Widget = styled("div")(() => ({
 }));
 
 const Img = styled("img")(() => ({
-  width: "500px",
-  height: "500px",
+  width: "20rem",
+  height: "20rem",
   "@media (max-width: 768px)": {
     width: "250px",
     height: "250px",
   },
 }));
-

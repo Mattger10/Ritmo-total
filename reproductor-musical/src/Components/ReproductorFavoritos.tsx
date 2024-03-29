@@ -15,8 +15,8 @@ import Tooltip from "@mui/material/Tooltip";
 import HighlightOffOutlinedIcon from "@mui/icons-material/HighlightOffOutlined";
 
 interface ReproductorFavoritosProps {
-  cancionesFavoritas: CancionFavorita[]; // Define el tipo de 'cancionesFavoritas'
-  seleccionarCancion: string; // Agrega esta prop para obtener la canción seleccionada
+  cancionesFavoritas: CancionFavorita[]; 
+  seleccionarCancion: string; 
   onClose: () => void;
 }
 
@@ -114,11 +114,13 @@ const ReproductorFavoritos: React.FC<ReproductorFavoritosProps> = ({
   };
 
   useEffect(() => {
-    if (seleccionarCancion) {
+    if (seleccionarCancion !== null && seleccionarCancion !== "") { // Asegurar que seleccionarCancion no sea null ni una cadena vacía
       playSelectedSong(seleccionarCancion);
     }
-   
+    console.log(seleccionarCancion)
   }, [seleccionarCancion]);
+  
+  
 
   const handleProgressBarClick = (e: React.MouseEvent<HTMLDivElement>) => {
     if (audioRef.current) {
@@ -182,7 +184,7 @@ const ReproductorFavoritos: React.FC<ReproductorFavoritosProps> = ({
                     position: "fixed",
                     color: isShuffleMode ? "#ffee04" : "#ccc",
                     right: 40,
-                    top: 40,
+                    top: 30,
                     fontSize: "37px",
                     "&:hover": {
                       color: "#ffee04",
@@ -448,8 +450,8 @@ const Widget = styled("div")(() => ({
 }));
 
 const Img = styled("img")(() => ({
-  width: "500px",
-  height: "500px",
+  width: "20rem",
+  height: "20rem",
   "@media (max-width: 768px)": {
     width: "250px",
     height: "250px",

@@ -235,15 +235,16 @@ const Container = styled("div")(() => ({
 
 const Img = styled("img")(() => ({
   filter: "grayscale(40%)",
-  width: "350px",
-  height: "350px",
+  width: "100%", // Usando 100% para que la imagen ocupe el ancho completo del contenedor
+  height: "auto", // Permitiendo que la altura se ajuste automáticamente para mantener la proporción original de la imagen
+  maxWidth: "650px", // Estableciendo un ancho máximo opcional para limitar el tamaño máximo de la imagen
   borderRadius: "10px",
   "&:hover": {
     filter: "grayscale(0%)", // Al hacer hover, mostrar en color
   },
   "@media screen and (max-width: 768px)": {
-    width: "20rem",
-    height: "auto",
+    maxWidth: "20rem", // Ajustando el ancho máximo para dispositivos con una anchura máxima de 768px
   },
 }));
+
 

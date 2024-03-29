@@ -491,8 +491,8 @@ const Widget = styled("div")(() => ({
 }));
 
 const Img = styled("img")(() => ({
-  width: "30rem",
-  height: "30rem",
+  width: "20rem",
+  height: "20rem",
   "@media (max-width: 768px)": {
     width: "250px",
     height: "250px",
